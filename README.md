@@ -8,3 +8,12 @@ Objective: Using SQL queries to provide insights into infection rates, death per
 Skills: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 Technology: SQL Server
+
+## 2.0 SQL Data Cleaning  Queries: Nashville Housing.sql
+Code: [SQL Data Cleaning  Queries: Nashville Housing.sql](https://github.com/VictorOwinoKe/SQL-Porfolio-Projects-DDL-DML/blob/master/SQL Data Cleaning  Queries: Nashville Housing.sql)
+
+Description: The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
+
+Skills: DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
+
+Technology: SQL Server
