@@ -10,7 +10,7 @@ Skills: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creat
 Technology: SQL Server
 
 ## 2.0 SQL Data Cleaning  Queries: Nashville Housing.sql
-Code: [SQL Data Cleaning  Queries: Nashville Housing.sql](https://github.com/VictorOwinoKe/SQL-Porfolio-Projects-DDL-DML/blob/master/SQL Data Cleaning  Queries: Nashville Housing.sql)
+Code: [SQL Data Cleaning  Queries: Nashville Housing.sql](https://github.com/VictorOwinoKe/SQL-Porfolio-Projects-DDL-DML/blob/master/SQL%20Data%20Cleaning%20%20Queries%3A%20Nashv)
 
 Description: The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
 
