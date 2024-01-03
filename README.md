@@ -19,3 +19,14 @@
 **Skills:**  `DML(Data Manipulation Language)`,  `DQL (Data Query Language)`,  `DDL (Data Definition Language)`.
 
 **Technology:**  `SQL Server`
+
+## 3.0 Student Mental Analysis SQL & Python
+**Code:** [SQL Data Cleaning  Queries: Nashville Housing.sql](https://github.com/VictorOwinoKe/SQL-Porfolio-Projects-DDL-DML/blob/6693c44322717d07989054d09b7fb115f394d5f8/SQL%20Data%20Cleaning%20%20Queries%3A%20Nashville%20Housing.sql)
+
+**Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
+
+**Objective:** To clean and enhance the  `NashvilleHousing` data table by standardizing date formats, populating missing property addresses, breaking full addresses into individual components, converting specific values, removing duplicates, and deleting unused columns.
+
+**Skills:**  `DML(Data Manipulation Language)`,  `DQL (Data Query Language)`,  `DDL (Data Definition Language)`.
+
+**Technology:**  `SQL Server`
